@@ -1,7 +1,7 @@
 <h1 align="center">Yuri Manhiça</h1>
 
 <h3 align="center">🚀 Sobre Mim</h3>  
-<p align="center">
+<p align="start">
 Olá! Meu nome é <strong>Yuri Manhiça</strong>, nascido em <strong>19 de março</strong>, residente na <strong>Matola, Moçambique</strong>. Atualmente, trabalho na <strong>MaleSoftware</strong> há mais de <strong>três anos</strong> como <strong>Desenvolvedor de Software</strong>, onde atuo na <strong>implementação</strong> e <strong>manutenção</strong> de sistemas empresariais críticos.
 </p>
 
