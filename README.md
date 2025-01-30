@@ -1,8 +1,28 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏽‍💻 Yuri manhiça
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+🚀 Trabalho com implementação e manutenção de sistemas de **Contabilidade, Patrimônio, Recursos Humanos, Crédito e Seguros**, para **Microfinanças** a **Micro Bancos**. Minha stack principal inclui **C#, MS SQL Server e Crystal Reports Viewer,** garantindo segurança, eficiência e escalabilidade.
+
+# 🔍 Habilidades: 
+
+✔ Desenvolvimento Fullstack <br/>
+✔ Manipulação de grandes volumes de dados <br/>
+✔ Otimização de código e lógica de programação <br/>
+✔ Criação de Web Services e integração com APIs <br/>
+✔ Implementação de criptografia e segurança de dados <br/>
+✔ Desenvolvimento de interfaces intuitivas e acessíveis <br/>
+
+#  📌 Destaques:
+
+⚡ Integração com **QIPAGA, TabluTech** e outras entidades  <br/>
+⚡ Desenvolvimento de sistemas que garantem privacidade de dados e compliance  <br/>
+⚡ Trabalho remoto em equipe para cumprir prazos e orçamentos  <br/>
+
+**💡 Sempre aberto a desafios, colaborações e oportunidades de aprendizado!**
+
+# 🌍 Vamos conectar?
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
