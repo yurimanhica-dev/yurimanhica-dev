@@ -22,7 +22,7 @@ Sou formado em **Administração de Sistemas e Redes Informáticas**. No entanto
 - [FSWfoods](#) - Breve descrição do projeto.
 - [BarberShop](#) - Breve descrição do projeto.
 
-📫 **Contacto:**  
+📫 **Contactos:**  
 
 <p align="left gap-2">
 <a href="mailto:yurimanhica4@gmail.com">
